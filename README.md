@@ -22,7 +22,7 @@ Demo code release for TPTLN: Combining the theoretical bound and deep adversaria
 
 ## Training
 
-- Step 1: Download the dataset from above links
+- Step 1: Download the bearingset and gearset from above links
 - Step 2: Run the 'Building gearbox task.ipynb' or  'Building bearing task.ipynb' to preprocessing the dataset
 - Step 3: Run the 'main.ipynb' to illustrate the proposed method
 - Optional: The compared methods could be used for ablation study and performance comparison
