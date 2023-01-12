@@ -5,6 +5,10 @@ Demo code release for TPTLN: Combining the theoretical bound and deep adversaria
 ## Dataset
 ### The Paderborn Bearing Dataset, Available: https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter
 ### The PHM 2009 Gearbox Dataset, Available: https://www.phmsociety.org/competition/PHM/09
+### The bearing dataset and gearbox dataset can also be download through the following links:
+### Bearing Dataset: https://pan.baidu.com/s/15X3h7uQJ8r6ocrBYo9rxTw (Extraction code: DATA)
+### Gearbox Dataset: 
+
 
 ## Requirements
 
