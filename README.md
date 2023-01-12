@@ -32,6 +32,7 @@ Demo code release for TPTLN: Combining the theoretical bound and deep adversaria
 
 ## Reference codes
 **https://github.com/thuml/easydl**
+**https://github.com/thuml/Separate_to_Adapt**
 
 ## Contact
 - phoenixdyf@sjtu.edu.cn
